@@ -6,6 +6,6 @@ Presentations/<br>
 
 Ornstein-Uhlenbeck/ - Playing with Ornstein-Uhlenbeck processes (C++ and PyTorch).
 
-Notebooks/ - Code snippets (Python)
+Notebooks/ - Code snippets (Python), Vola
 
 CUTLASS/ - Experiments with NVIDIA CUTLASS
